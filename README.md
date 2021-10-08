@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @CapeGuyGit
-- 👀 I’m interested in coding, mainly software to hardware. I have experience of creating web design and web development 
-I know how to code discord bot, make gui application with pyqt5 and kivy, I've made an stock and staff management app for 
-A hotel in my area, I know text based coding, mainly python
-Actually strictly python ;)
+- 👀 I’m interested in coding. I have experience of creating web design and web development 
+I am advanced in discord.py, make gui application with pyqt5 and kivy, I know text based coding, mainly python.
+I know basics of C# and JavaScript. CSS and HTML are must so ik them too.
 - 🌱 I’m currently learning C++ with the help of tech with Tim's yt channel
-- 💞️ I’m looking to collaborate on nothing now, I'll update this once I have a projey
+- 💞️ No Colabs LoL
 - 📫 How to reach me:- discord- Cape#8526
 
 <!---
