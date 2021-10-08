@@ -5,7 +5,7 @@ A hotel in my area, I know text based coding, mainly python
 Actually strictly python ;)
 - 🌱 I’m currently learning C++ with the help of tech with Tim's yt channel
 - 💞️ I’m looking to collaborate on nothing now, I'll update this once I have a projey
-- 📫 How to reach me:- discord- CAPE_GUY[PY]#8526
+- 📫 How to reach me:- discord- Cape#8526
 
 <!---
 CapeGuyGit/CapeGuyGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
